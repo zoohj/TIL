@@ -29,6 +29,11 @@
 | `Cmd + Opt + V` | **Introduce Variable** | 리턴값에 맞는 변수 타입을 자동으로 선언 및 생성 |
 | `Cmd + Shift + T` | **Create Test** | 현재 클래스에 대한 JUnit 테스트 케이스 자동 생성 |
 | `Cmd + Opt + L` | **Reformat Code** | 코드 정렬 및 포맷팅 (Clean Code의 기본) |
+| `Cmd + Opt + B` | **Move** | implements로 이동|
+| `Opt + Enter` | **lambda** | 람다식으로 변경|
+| `ctrl + t` | **search** | 'inline' 검색 후 사용|
+
+
 
 ![IntelliJ Shortcuts](../images/intellij_shortcuts.png)
 
